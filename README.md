@@ -32,7 +32,7 @@ git clone https://github.com/blackphoenix42/character-recognition.git
 
 ## 🚀 How to Contribute to Project?
 
-- Take a look at the Existing [Issues](https://github.com/blackphoenix/character-recognition/issues) or create your own Issues!
+- Take a look at the Existing [Issues](https://github.com/blackphoenix42/character-recognition/issues) or create your own Issues!
 - Check out [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 <div align="center">
